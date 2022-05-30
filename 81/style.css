@@ -1,0 +1,13 @@
+h1{
+    color: red;
+}
+.body_background{
+background-image: url("https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.shutterstock.com%2Fimage-photo%2Fold-brick-black-color-wall-260nw-1605128917.jpg&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Ffree%2Bbackground&tbnid=GM5UfQxGtdz0KM&vet=12ahUKEwivk6C2gof4AhXA_jgGHVFDCj4QMygDegUIARDfAQ..i&docid=QNklfQawUBkyDM&w=390&h=280&q=background%20images&ved=2ahUKEwivk6C2gof4AhXA_jgGHVFDCj4QMygDegUIARDfAQ");
+background-position: center;
+background-repeat: no-repeat;
+}
+#mycanvas{
+border-width:10px;
+background-color: antiquewhite;
+border-style: ridge;
+}
